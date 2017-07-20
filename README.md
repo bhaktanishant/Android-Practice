@@ -30,3 +30,37 @@ This application is the example of how layout change in andorid.
 This application is example of custum View in android. i am creating and populating a custom View in this application.
 
 ### 10 - OptionMenu
+This application is example of using Option Menu in andorid application.
+
+### 11 - PopUpMenu
+This application is example of using Pop Up Menu in andorid application.
+
+### 12 - RuntimeMenu
+This application is example of using Run Time Menu in andorid application.
+
+### 13 - RuntimeWidget
+This application is example of using Run Time Widget in andorid application.
+
+### 14 - SavingSmallData
+This application is example of saving small data using sharedPreferences in andorid application.
+
+### 15 - SpinnerView
+This application is example of using Spinner View in andorid application.
+
+### 16 - StateSelector
+This application is example of selecting the state in andorid application.
+
+### 17 - StopWatch
+This is a Stop Watch application for andriod.
+
+### 18 - Styles
+This is example of styles in android.
+
+### 19 - Themes
+This application is example of using Theme in andorid application.
+
+### 20 - inFlatLayout
+This application is example of Inflating Layout in andorid application.
+
+### 21 - test
+This application is nothing. just testing something.
