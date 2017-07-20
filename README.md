@@ -2,6 +2,7 @@
 Some basic android applications which i have written when i was learning Android.
 
 ## Application List:
+
 ### 1 - ActivityLifeCycle
   This application is written to demonstrate the life cycle of android application. it will show the name of andriod lifecycle in which it is.
   
