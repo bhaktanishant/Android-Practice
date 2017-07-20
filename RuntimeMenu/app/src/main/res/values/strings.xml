@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Runtime Menu</string>
+    <string name="textViewString">This Menu is Runtime Menu. Click the button to activate \"Download\" Menu item.</string>
+    <string name="buttonString">Add/Remove \"Download\" in Menu</string>
+    <string name="aboutMeText">This application is made by Nishant Kumar Bhakta</string>
+
+    <string name="menu_download">Download</string>
+    <string name="menu_About">About Me</string>
+</resources>

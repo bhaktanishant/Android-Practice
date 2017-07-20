@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/activity_about_me"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        tools:context="com.example.nishant.kyalanahai2.AboutMeActivity">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/creator_name"
+            android:src="@drawable/me"
+            android:id="@+id/about_me_image"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about_me_text"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/about_me_image"
+            android:textSize="20sp"
+            android:textColor="@color/colorPrimaryDark"/>
+
+    </RelativeLayout>
+
+</ScrollView>

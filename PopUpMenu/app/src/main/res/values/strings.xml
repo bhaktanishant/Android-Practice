@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopUp Menu</string>
+    <string name="popup_next">Next</string>
+    <string name="popup_previous">Previous</string>
+    <string name="text_view">PopUp menu project - Page 106</string>
+    <string name="menu_about_me">Creator</string>
+    <string name="second_activity_text_view">This is second Activity</string>
+</resources>

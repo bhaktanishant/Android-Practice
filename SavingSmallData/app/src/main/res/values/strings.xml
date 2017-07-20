@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SavingSmallData</string>
+    <string name="detail"> we will want our application to remember information across multiple sessions.\nAndroid supports SQLite, but that could be a lot of overhead for simple data, such as the user name or a high score. Fortunately, Android also provides a lightweight option for these scenarios, with SharedPreferences.</string>
+</resources>

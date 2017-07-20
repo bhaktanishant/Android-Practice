@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpinnerView</string>
+    <string-array name="spinnerText">
+        <item>"Toast"</item>
+        <item>Samosha</item>
+        <item>Chai</item>
+    </string-array>
+</resources>

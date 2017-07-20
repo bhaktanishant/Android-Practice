@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_about">About Me</string>
+    <string name="chapter">Android Application Development Cookbook, Page-90</string>
+    <string name="home_textView">The menu is being inflated with "onCreateOptionsMenu()."</string>
+    <string name="about_me_text">Hello, I am Nishant, the creator of this application.</string>
+</resources>

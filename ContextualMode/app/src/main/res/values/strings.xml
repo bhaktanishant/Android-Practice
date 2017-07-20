@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContextualMode</string>
+    <string name="menu_about_me">About me</string>
+    <string name="menu_setting">Setting</string>
+    <string name="text_view_1">Do long click to this text view to open contextual menu.</string>
+
+    <string name="contextual_done">Done</string>
+    <string name="contextual_delete">Delete</string>
+</resources>

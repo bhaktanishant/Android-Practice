@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContextualBatchMode</string>
+    <string name="button_text">Add</string>
+    <string name="edit_text_hint">Enter Name Here</string>
+    <string name="about_me_title">Who made this app</string>
+    <string name="contextual_mode_done">Done</string>
+    <string name="contextual_mode_Delete">Delete</string>
+</resources>
